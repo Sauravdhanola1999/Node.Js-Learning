@@ -1,0 +1,9 @@
+NPM, which stands for Node Package Manager, is a tool for managing packages or modules in Node.js projects. It acts as a package manager and a registry for JavaScript software packages. Essentially, it allows developers to easily install, update, and manage third-party libraries and dependencies needed for their Node.js applications
+
+Dependencies: A dependency is a library that a project needs to function effectively.	
+devDependencies: devDependencies are the packages a developer needs during development.	
+peerDependencies: A peer dependency specifies that our package is compatible with a particular version of an npm package. 
+
+npm init is a command used to initialize a new Node.js project and create a package.json file in the current directory. This file acts as a manifest for the project, storing metadata like its name, version, description, entry point, scripts, and dependencies. Essentially, npm init sets up the basic structure for your project within the npm ecosystem
+ 	
+A package.json file is a JSON file that acts as a manifest for JavaScript/Node.js projects, containing metadata and configuration details about the project. It's crucial for managing dependencies, scripts, and other aspects of your project within the Node.js ecosystem
